@@ -37,13 +37,21 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
-
-                <!-- Add CloudSQL Starter for MySQL -->
-               <dependency>
-                       <groupId>com.google.cloud</groupId>
-                       <artifactId>spring-cloud-gcp-starter-sql-mysql</artifactId>
-                       </dependency>
-	      </dependencies>
+	
+		<dependency>
+			<groupId>org.projectlombok</groupId>
+			<artifactId>lombok</artifactId>
+			<version>1.18.28</version>
+			<scope>provided</scope>
+		</dependency>
+        
+           <!-- Add CloudSQL Starter for MySQL -->
+          <dependency>
+              <groupId>com.google.cloud</groupId>
+              <artifactId>spring-cloud-gcp-starter-sql-mysql</artifactId>
+          </dependency>
+		
+ </dependencies>
 	<dependencyManagement>
 		<dependencies>
 			<dependency>
@@ -61,12 +69,6 @@
 				<scope>import</scope>
 			</dependency>
 			
-			<dependency>
-    <groupId>org.projectlombok</groupId>
-    <artifactId>lombok</artifactId>
-    <version>1.18.26</version>
-    <scope>provided</scope>
-</dependency>
 		</dependencies>
 	</dependencyManagement>
 
