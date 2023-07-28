@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "united-aura-393712",
+  "private_key_id": "3dacd4b7b1971a92c2cd14b366cf7eec13aab32a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDKDolN09SRxaKQ\nH0sT6QLLJoG19R4Y1qwcnaY2rlsIktcBV5wMrW+M7B3m0NUelAg+4OgjtMRyY1FD\nHwNkzdpFUp2U4lX1gwy8qsFLY0Dhzr9INZY2QyTJREzFv6wvxUCoaLJ59JOZ3vFK\nYbw3h+HcnKXpNDNRk7sr1IWQFiPlvVhFuGn7Ns6OoIfP912VKBt0QMOHgvYr0lE5\n7g2X8IVntodqNwk9JThzp7QEgern80GHLt2VkrccyJ9mSnD+NGnFBwmXeLkQhK/O\n2dLF8aIPx8hsk3bc2C47G3dwIFYfLrEWHJo1o6LIe+6hwQ5eaQz3FfLPlsJEakjf\nh4EyNnsbAgMBAAECggEACxorXzRhfLUATqz5ghmOhr0R6X6Tbcf14wiihmSkKd9v\nouo+b8/jzjl3FySoYSq/HT1cZAHdvW9JmseMdzB8asy0Teb11CykOYWkY1EL0px6\nlCwlmcusrMZs9XynqGRNPjOqgtr2dUDzvyOJpP95YJbW4u50V2onoavmvtkIlent\nex9QdIB0LdBi3WMH0t1St7/06C2yZKqkEr3Dd9eA/79lO0NmV5Z8T/eFukBAJoxf\nvSMCgvUfIrVN/H6ZyLZeV53FGFUS5K78edUiwxhvLWmxZGiia/qoH7DCruNBCfl0\nIZ9xOJpcG8GIdNiJWMco5wVmVFCQIruusWZa2vGG6QKBgQDqzArncSPVIWEryphb\nHPYg9RYz9YGp2iVh4brcYHkp3lw8xrjlHQaB+EcgURKrcCf1s94xsY+RrggQKT1j\n9vn7+lTN2vSzOY0cyosjrIorK2qBziHybturcZ47d3M3Pnyo6hpa3km/HXb5+m0L\nADyll4GZB8zcTY64LgnD1ZyGlwKBgQDcTZ2dkTCSLtw1uAf6lfjZyh6kUcRC1or4\nxcNr91gEgLj8msZTr7ydJCjvI/lHX5X1DsPvgDnhRKKCdNDjRn0b0xO4Wi8x3M4d\n3wMSU4r9nv0IMYeRUxu2ciBKkfQlZuGDcFue0E6tasc7t9JmYDL3iKYZP/DTCG4g\nFCme16IkHQKBgQDFZ5+TTrBNtK653q+Rixv0QZrVPIgzgdEEJoCwX/v+k5EBGCLD\nnk+mXlOOfBsyQC2Yig05wotuc98bl1CiBzfN/n3mRTyOoshdeHzbFWllOi9lyyUH\nauUNk4zxelBIFiVA7vIRi+p84AzzxvR+10gmAOdY/hHi9uITP8G+AI6FKQKBgCET\nxkaSNii8wHOQXiJRwjtxDYi+filK7TLM/rqHOL/0U9IZqw2FpVwywbKmRBdjUrCo\ntuKO7iHUnFHaGEMHomE7IArd/5gM/yWdBmkKAiRyaquAREqdn9uU5yRLJc031URW\n6mq9/BItphxhTUXxy7U+3zGLWC1XZrGKVXV0CvRBAoGBAJJvCJn7zU2ic2/FCbLZ\nFBn1GzIitT7Jp7qD+nON/nwgQDFzXAjMWS/mTnPpghaZUHa+rHWgFg8xmp9Nv14F\nAj8xu1XosLRYXHGbpvaPVHQSSHrp1sYC0ZiYZQJ0SJOZdtMzqeVnvUH5tN73ZrvD\nW6wTyYVVaX5wgApUj01zRe1R\n-----END PRIVATE KEY-----\n",
+  "client_email": "spring-mysql-demo@united-aura-393712.iam.gserviceaccount.com",
+  "client_id": "100422584671257647928",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/spring-mysql-demo%40united-aura-393712.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
