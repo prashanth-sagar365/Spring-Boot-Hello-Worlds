@@ -26,5 +26,28 @@ public class SellDto {
     @ApiModelProperty(value = "Number of copies of the book to be sold.")
     @Min(value = 0, message = "Total sell should be positive value")
     private int quantity;
+
+	public long getBookId() {
+		return bookId;
+	}
+
+	public void setBookId(long bookId) {
+		this.bookId = bookId;
+	}
+
+	public int getQuantity() {
+		return quantity;
+	}
+
+	public void setQuantity(int quantity) {
+		this.quantity = quantity;
+	}
+
+	public static Object builder() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+    
+    
 }
 
